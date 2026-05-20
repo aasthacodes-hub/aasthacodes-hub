@@ -1,4 +1,9 @@
-## Hi there 👋
+ ## Hi there 👋
+ This is my first git repository.
+ Author-aastha verma
+ 
+ 
+  
 
 <!--
 **aasthacodes-hub/aasthacodes-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
